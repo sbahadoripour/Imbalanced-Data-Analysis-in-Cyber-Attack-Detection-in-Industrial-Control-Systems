@@ -2,7 +2,7 @@
 Assignment 3 code for ENEL 645 course
 This code is about Cyberattack Detection in Industrial Control Systems
 
-7 models for cyber threat classification and detection have been developed in the code such as ANN, DT, KNN, SVM, RF, GB, and AdaBoost.
+7 models for cyber threat classification and detection have been developed including ANN, DT, KNN, SVM, RF, GB, and AdaBoost.
 
 There are 2 datasets:
 1. Gass Pipeline
